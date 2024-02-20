@@ -1,2 +1,2 @@
-# TorchIgnitor
-Torch Ignitor for Rocket Project Arduino Code
+# TorchIgniter
+Torch Igniter for Rocket Project Arduino Code
